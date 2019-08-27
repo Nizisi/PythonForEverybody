@@ -1,12 +1,11 @@
 # PythonForEverybody
 Goals<br/>
-Complete the Python for Everybody Specialization<br/>
+Complete and actually learned the Python for Everybody Specialization<br/>
 Boundaries / Scope<br/>
 Complete Course 1 Programming for Everybody (Getting Started with Python) <br/>
 Complete Course 2 Python Data Structures<br/>
 Success criteria<br/>
-My own application for data retrieval and processing.<br/>
-Weekly work log with screenshots and summaries to demonstrate activity.<br/>
+Able to have a basic understanding of python language.<br/>
 Constraints<br/>
 I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.<br/>
 Assumptions<br/>
