@@ -18,7 +18,7 @@ Timeline<br/>
 Week: <br/>
 
 finished  Chapter One - Strings (3 hours)<br/>  
-Chapter Two: lists and sorting (3 hours)<br/>
+finished Chapter Two: lists and sorting (3 hours)<br/>
 Chapter Three:dicts and files (3 hours)<br/>
 Chapter Five: regular expr (3 hours)<br/>
 Chapter SIx: Utilities(3 hours)<br/>
