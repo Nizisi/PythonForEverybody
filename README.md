@@ -17,11 +17,12 @@ Perspective Employers - artifact will be added to my student portfolio which cou
 Timeline<br/>
 Week: <br/>
 
-finished  Chapter One - Strings (3 hours)<br/>  
+finished  set up and intro(2h)<br/>
+finished Chapter One - Strings (3 hours)<br/>  
 finished Chapter Two: lists and sorting (3 hours)<br/>
 finished Chapter Three:dicts and files (3 hours)<br/>
- finished Chapter four:dicts and files (3 hours)<br/>
-Chapter Five: regular expr (3 hours)<br/>
-Chapter SIx: Utilities(3 hours)<br/>
-Chapter Seven:Utilities Urllib(3hours) <br/>
-Chapter Eight: Conclusions(1.5hours)<br/>
+ finished Chapter three:dicts and files (3 hours)<br/>
+Chapter four: regular expr (3 hours)<br/>
+Chapter five: Utilities(3 hours)<br/>
+Chapter six:Utilities Urllib(3hours) <br/>
+Chapter seven: Conclusions(1.5hours)<br/>
