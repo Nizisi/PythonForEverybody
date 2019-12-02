@@ -24,6 +24,7 @@ finished Chapter Three:dicts and files (3 hours)<br/>
 finishChapter three:dicts and files (3 hours)<br/>
 （reviewing) review finished
 Chapter four: regular expr (3 hours)<br/> (finished, reviewing)
-Chapter five: Utilities(3 hours)<br/>
-Chapter six:Utilities Urllib(3hours) <br/>
-Chapter seven: Conclusions(1.5hours)<br/>
+Chapter five: Utilities(3 hours)<br/>(finished, reviewing)
+Chapter six:Utilities Urllib(3hours) <br/>(finished, reviewing)
+Chapter seven: Conclusions(1.5hours)<br/>(finished, reviewing)
+(Reviewing)
